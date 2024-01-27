@@ -1,8 +1,6 @@
 <h1 align="center">👋Hello, I'm Vaibhav Rathod!👋</h1>
 <p align="center"><b>🌱 Student | Learner | Developer | Designer | Sketcher 🌱</b></p>
 
----
-
 <p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
 <p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
 
