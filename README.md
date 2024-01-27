@@ -1,4 +1,4 @@
-<h1 align="center">👋Hello, I'm VaiBhav Rathod!👋</h1>
+<h1 align="center">👋Hello, I'm Vaibhav Rathod!👋</h1>
 <p align="center"><b>🌱 Student | Learner | Developer | Designer | Sketcher 🌱</b></p>
 
 ---
