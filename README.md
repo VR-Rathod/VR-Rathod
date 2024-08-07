@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, I'm Vaibhav Rathod!👋</h1>
-<p align="center"><b>🌱 Game Devloper | Learner | Python Developer | Designer | Web Devloper | 3D Artist 🌱</b></p>
+<p align="center"><b>🌱 Game Devloper | Python Developer | UI/Ux Designer | Web Devloper | 3D Artist 🌱</b></p>
 
 <p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
 <p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
@@ -80,4 +80,6 @@
 <img width="12" />
 <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" alt="window logo"  />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+          
 </div>
