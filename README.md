@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, I'm Vaibhav Rathod!👋</h1>
-<p align="center"><b>🌱 Game Devloper | Python Developer | UI/Ux Designer | Web Devloper | 3D Artist | freelancer 🌱</b></p>
+<p align="center"><b>🌱 Game Devloper | Python Developer | Graphic Designer | Web Devloper | 3D Artist | freelancer 🌱</b></p>
 
 <p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
 <p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
@@ -33,8 +33,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img width="12" />
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="40" alt="npm logo"  />
 <img width="12" />
