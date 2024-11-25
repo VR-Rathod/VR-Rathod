@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, I'm Vaibhav Rathod!👋</h1>
-<p align="center"><b>🌱 Game Devloper | Python Developer | Graphic Designer | Web Devloper | 3D Artist | freelancer 🌱</b></p>
+<p align="center"><b>🌱 Game Devloper | Python Web Developer | Graphic Designer | Web Devloper | 3D Artist | freelancer 🌱</b></p>
 
 <p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
 <p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
