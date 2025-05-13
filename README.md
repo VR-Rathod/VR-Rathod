@@ -8,13 +8,14 @@
 <img src="https://profile-counter.glitch.me/VR-Rathod/count.svg?"  />
 </div>
 
+
 ---
+<h2>📊 Work Stats</h2>
 
-<h2>Work Stats</h2>
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VR-Rathod&show_icons=true&theme=radical&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VR-Rathod&layout=compact&theme=radical&size_weight=0.1&count_weight=0.5&langs_count=18)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VR-Rathod&show_icons=true&theme=radical&rank_icon=github" alt="Vaibhav's GitHub stats" width="48%" style="margin-right: 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VR-Rathod&layout=compact&theme=radical&size_weight=0.1&count_weight=0.5&langs_count=18" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
@@ -82,3 +83,10 @@
 <img width="12" />
           
 </div>
+
+<h2>Today's Motivation</h2>
+
+<!-- Full-width GitHub Readme Quote with black background -->
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&bg=000000&text=ffffff&width=1000" width="100%" />
+</p>
