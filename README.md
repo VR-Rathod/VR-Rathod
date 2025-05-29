@@ -1,4 +1,4 @@
-<h1 align="center">👋Hello, I'm Vaibhav Rathod!👋</h1>
+<h1 align="center">🙏Namaste, I'm Vaibhav Rathod!🙏</h1>
 <p align="center"><b>🌱 Game Devloper | Python Web Developer | Graphic Designer | Fullstack Web Devloper | 3D Artist | freelancer 🌱</b></p>
 
 <p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
@@ -19,7 +19,7 @@
 ---
 
 <br/>
-<h2>Languages & Programming</h2>
+<h2>Programming Languages & Frameworks, Library</h2>
 <div align="left" class="languages">
   
   <!-- Programming Languages -->
@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
+
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-plain.svg" height="40" alt="Json logo" />
@@ -35,7 +37,9 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/threejs/threejs-original-wordmark.svg" height="40" alt="threejs logo" />
   <img width="12" />
-  <img src="https://github.com/juliangarnier/anime/blob/master/assets/images/animejs-v4-logo-animation-dark.gif" height="40" alt="threejs logo" />
+  <img src="https://github.com/juliangarnier/anime/blob/master/assets/images/animejs-v4-logo-animation-dark.gif" height="40" alt="animejs logo" />
+  <img width="12" />
+    <img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" height="40" alt="Barbajs logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-original.svg" height="40" alt="Wordpress logo" />
   <img width="12" />
