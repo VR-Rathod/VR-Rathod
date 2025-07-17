@@ -4,9 +4,34 @@
 <p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
 <p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/VR-Rathod/count.svg?"  />
+<div style="display:flex">
+       <!-- Profile Views Counter -->
+  <div style="text-align:center; background:#f0f4f8; padding:15px 20px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); width:180px;">
+    <img src="https://komarev.com/ghpvc/?username=VR-Rathod&color=4CAF50" alt="Profile Views" style="margin-bottom:10px;" />
+    <p style="margin:0; font-weight:600; color:#333;">Total Profile Views</p>
+  </div>
+    
+  <!-- Visitors Badge -->
+  <div style="text-align:center; background:#fef6f0; padding:15px 20px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); width:180px;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=VR-Rathod&right_color=ff7f50&left_color=ffd700" alt="Visitor Badge" style="margin-bottom:10px;" />
+    <p style="margin:0; font-weight:600; color:#444;">Unique Visitors Count</p>
+  </div>
+    
+  <!-- GitHub Stars -->
+  <div style="text-align:center; background:#e8f0fe; padding:15px 20px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); width:180px;">
+    <img src="https://img.shields.io/github/stars/VR-Rathod?style=social&label=Stars&color=0078d7" alt="GitHub Stars" style="margin-bottom:10px;" />
+    <p style="margin:0; font-weight:600; color:#222;">Stars on GitHub</p>
+  </div>
+    
+  <!-- Followers Badge -->
+  <div style="text-align:center; background:#fff0f6; padding:15px 20px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); width:180px;">
+    <img src="https://img.shields.io/github/followers/VR-Rathod?style=social&label=Followers&color=ea4aaa" alt="Followers" style="margin-bottom:10px;" />
+    <p style="margin:0; font-weight:600; color:#b02359;">Followers on GitHub</p>
+  </div>
 </div>
+
+
+
 
 ---
 <h2>📊 Work Stats</h2>
