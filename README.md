@@ -117,6 +117,8 @@
   <img width="12" />
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" height="40" alt="inkscape Logo" />
   <img width="12" />
+  <img src="https://friction.graphics/assets/logo-uni.svg#v2)](https://friction.graphics" height="40" alt="Friction Logo" />
+  <img width="12" />
 
   <!-- Skill Base  -->
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/premierepro/premierepro-original.svg" height="40" alt="blender logo" />
