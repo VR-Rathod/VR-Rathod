@@ -14,20 +14,6 @@
 
   </div>
 
-
-
-
-
-
-
----
-<h2>📊 Work Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VR-Rathod&show_icons=true&theme=radical&rank_icon=github" alt="Vaibhav's GitHub stats" width="48%" style="margin-right: 1%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VR-Rathod&layout=compact&theme=radical&size_weight=0.1&count_weight=0.5&langs_count=18" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 <br/>
