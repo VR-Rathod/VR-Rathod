@@ -1,8 +1,22 @@
-<h1 align="center">🙏Namaste, I'm Vaibhav Rathod!🙏</h1>
-<p align="center"><b>🌱 Game Devloper | Python Web Developer | Graphic Designer | Fullstack Web Devloper | 3D Artist | freelancer 🌱</b></p>
+<h1 align="center">🙏 Namaste, I'm Vaibhav Rathod 🙏</h1>
 
-<p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
-<p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
+<p align="center">
+  <b>
+    🚀 Fullstack Developer | 🎮 Game Developer | 🎨 Graphic Designer | 🧠 3D Artist | 💼 Freelancer
+  </b>
+</p>
+
+<p align="center">
+  👨‍💻 Self-taught developer passionate about building creative and impactful digital experiences
+</p>
+
+<p align="center">
+  🌱 Creator of <b>Code-Note</b> – Free coding resources for developers
+</p>
+
+<p align="center">
+  🤝 Open to Hackathons, Freelance Work & Open Source Collaborations
+</p>
 
 <div style="display:flex">
        <!-- Profile Views Counter -->
